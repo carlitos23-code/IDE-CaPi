@@ -1,0 +1,10 @@
+3.3
+4 8.8 if
+int Xd
+float num
+int cont4
+float x=3 //este es un comentario if while
+if (x<=3){
+    int fa=134
+}
+//comentario xd
